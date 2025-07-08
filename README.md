@@ -67,14 +67,10 @@ By making elevator usage visible and smarter, this solution improves **safety**,
 
 ## 📂 Project Structure
 
-Elevator_Occupancy_Counter/
-├── CameraWebServer_for_prathmesh_hotspot.ino   # Main ESP32-CAM sketch
-├── app_httpd.cpp                               # Web streaming logic
-├── camera_index.h                               # HTML/CSS/JS for camera UI
-├── camera_pins.h                                # ESP32-CAM pin config
-├── README.md                                    # This documentation
-├── description                                  # (Optional placeholder file)
-└── CameraWebServer_Code/                        # Optional extra files or code
+<pre> ```markdown 📂 Project Structure Elevator_Occupancy_Counter/ ├── CameraWebServer_for_prathmesh_hotspot.ino # Main ESP32-CAM sketch ├── app_httpd.cpp # Web streaming logic ├── camera_index.h # HTML/CSS/JS for camera UI ├── camera_pins.h # ESP32-CAM pin config ├── README.md # This documentation ├── description # (Optional placeholder file) └── CameraWebServer_Code/ # Optional extra files or code ``` </pre>
+
+---
+
 
 ## 🔮 Future Enhancements
 
